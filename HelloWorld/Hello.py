@@ -7,3 +7,4 @@ sum = 0.0
 for a in L:
     sum = sum + a
 print sum / 4
+print "ALEX TEST"
