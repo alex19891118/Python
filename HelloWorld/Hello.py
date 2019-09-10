@@ -25,6 +25,7 @@ print(s[:1])
 print(s[::2])
 s = s + 'hahahaha'
 print(s[::2])
+print(s[::3])
 
 print(s.upper())
 print(s.split('e'))
